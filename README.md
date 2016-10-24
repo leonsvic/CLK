@@ -1,2 +1,2 @@
 # CLK
-All the slides for CLK 2016 will be put here. 
+All the slides for CLK will be put here. 
